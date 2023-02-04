@@ -1,3 +1,6 @@
+# DEPRECATED
+Use [Secure Communication Encryption](https://github.com/pparadoxx/Secure-Communication-Encryption) instead.
+
 # What is this?
 
 Simple Lua Encryption (SLE) is an encryption method written for Garry's Mod.
